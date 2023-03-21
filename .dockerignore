@@ -1,0 +1,28 @@
+﻿# Git
+.git
+.gitignore
+
+# Environment
+env
+venv
+.env
+.venv
+
+# JetBrains
+.idea
+
+# Visual Studio Code
+.vscode
+
+# Docker
+Dockerfile
+
+# Documentation
+README.md
+
+# Python
+**/__pycache__
+**/.pytest_cache
+
+# Node
+**/node_modules
